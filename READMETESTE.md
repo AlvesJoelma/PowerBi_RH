@@ -1,4 +1,4 @@
-![https://educainvest.netlify.app/img/logo.svg] 
+![https://static.vecteezy.com/system/resources/previews/022/653/879/non_2x/fantasy-island-with-waterfalls-3d-illustration-elements-of-this-image-furnished-by-nasa-generative-ai-free-photo.jpg] 
 
 
 ## Requisitos para a api:
