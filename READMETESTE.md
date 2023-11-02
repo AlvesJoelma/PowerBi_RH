@@ -1,7 +1,7 @@
 # __Educainvest__
 #### Organize as suas finanças enquanto aprende.
 
-![Educainvest]("http://www.w3.org/2000/svg")
+![Educainvest]("https://educainvest.netlify.app/img/logo.svg")
 
 ---
 <br>
