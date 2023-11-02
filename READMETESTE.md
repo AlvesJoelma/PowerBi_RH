@@ -1,10 +1,8 @@
 # __Educainvest__
-##### Organize as suas finanças enquanto aprende.
+#### Organize as suas finanças enquanto aprende.
 ---
-
-
-
-
+<br>
+<br>
 ## Requisitos para a api:
 
 * MySql
