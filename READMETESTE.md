@@ -26,6 +26,9 @@
    (é indicado baixar a versão que está escrito "recommended for most users")
 
 2. Rodar a api:
+
    Abrir o prompt dentro da pasta api;
+
    Digitar npm install;
+
    Digitar npm index.js;
