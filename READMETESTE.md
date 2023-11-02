@@ -25,10 +25,10 @@
 
 (é indicado baixar a versão que está escrito "recommended for most users")
 
-__Para rodar a api:__
+2. Rodar a api:
 
-1. Abrir o prompt dentro da pasta api;
+-Abrir o prompt dentro da pasta api;
 
-2. Digitar npm install;
+-Digitar npm install;
 
-3. Digitar npm index.js;
+-Digitar npm index.js;
