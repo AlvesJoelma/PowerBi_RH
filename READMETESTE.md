@@ -5,6 +5,7 @@
 ## Requisitos para a api:
 
 * MySql
+
 -[]Fazer o download da versão 8.0 no site [Mysql](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
 -[] Durante a instalação, na tela "Choosing a Setup Type", selecionar a opção "Full"
