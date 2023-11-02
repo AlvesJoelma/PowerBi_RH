@@ -27,8 +27,11 @@
 
 2. Rodar a api:
 
-2. 1. Abrir o prompt dentro da pasta api;
+Abrir o prompt dentro da pasta api;
 
-2.2 Digitar npm install;
+Digitar npm install;
 
-2.3 Digitar npm index.js;
+Digitar npm index.js;
+
+2. Item de lista principal
+   1. xxzx
