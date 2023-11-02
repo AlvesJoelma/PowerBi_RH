@@ -21,6 +21,6 @@ Fazer download do Node.js no [site](https://nodejs.org/en) .
 (é indicado baixar a versão que está escrito "recommended for most users")
 
 __Para rodar a api:__
-abrir o prompt dentro da pasta api;
-digitar npm install;
-digitar npm index.js;
+-Abrir o prompt dentro da pasta api;
+-Digitar npm install;
+-Digitar npm index.js;
