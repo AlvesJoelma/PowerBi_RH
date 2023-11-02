@@ -1,5 +1,8 @@
 # __Educainvest__
 #### Organize as suas finanças enquanto aprende.
+
+![]("http://www.w3.org/2000/svg")
+
 ---
 <br>
 <br>
