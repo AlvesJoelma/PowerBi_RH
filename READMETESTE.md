@@ -1,11 +1,11 @@
-# Educainvest
-### Organize as suas finanças enquanto aprende.
+# __Educainvest__
+##### Organize as suas finanças enquanto aprende.
+---
 
 ## Requisitos para a api:
 
 ### * MySql
-Fazer o download da versão 8.0 no site:
-https://dev.mysql.com/downloads/windows/installer/8.0.html
+Fazer o download da versão 8.0 no site [Mysql] (https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
 Durante a instalação, na tela "Choosing a Setup Type", selecionar a opção "Full"
 
@@ -17,10 +17,10 @@ Abrir o workbench, copiar lá o conteúdo do script (api/scriptbanco.txt) e clic
 
 
 ### * Node.js
-Fazer download do Node.js no site: https://nodejs.org/en
+Fazer download do Node.js no [site](https://nodejs.org/en) . 
 (é indicado baixar a versão que está escrito "recommended for most users")
 
-Para rodar a api:
+__Para rodar a api:__
 abrir o prompt dentro da pasta api;
 digitar npm install;
 digitar npm index.js;
