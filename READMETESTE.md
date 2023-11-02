@@ -23,7 +23,7 @@
 * Node.js
 1. Fazer download do Node.js no [site](https://nodejs.org/en). 
 
-(é indicado baixar a versão que está escrito "recommended for most users")
+   (é indicado baixar a versão que está escrito "recommended for most users")
 
 2. Rodar a api:
    1. Abrir o prompt dentro da pasta api;
