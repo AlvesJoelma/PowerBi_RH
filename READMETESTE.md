@@ -4,17 +4,17 @@
 
 ## Documentação do Aplicativo de Educainvest
 
-### Introdução
+### INTRODUÇÃO
 
 Bem-vindo à documentação do Aplicativo Educainvest. Esta documentação fornecerá informações essenciais para usuários e desenvolvedores interessados em entender e utilizar nosso aplicativo.
 
-### Público-Alvo
+### PÚBLICO-ALVO
 
 Esta documentação destina-se a:
 
 •	Usuários finais que desejam aprender a usar o aplicativo Educainvest.
 
-### Funcionalidades Principais
+### FUNCIONALIDADES PRINCIPAIS
 
 O Aplicativo Educainvest oferece funcionalidades essenciais para o gerenciamento financeiro pessoal e de investimentos. Algumas das principais funcionalidades incluem:
 
@@ -28,9 +28,9 @@ O Aplicativo Educainvest oferece funcionalidades essenciais para o gerenciamento
 
 5.	Segurança e Privacidade: Garante a segurança das informações financeiras dos usuários com a criptografia e autenticação adequadas.
 
-### Instruções de Uso
+### INSTRUÇÕES DE USO
 
-#### Cadastro receba dicas e novidades
+### Cadastro receba dicas e novidades
 
 1.	Nome Completo: Preencha seu nome completo neste campo. 
 
@@ -40,9 +40,9 @@ O Aplicativo Educainvest oferece funcionalidades essenciais para o gerenciamento
 
 4.	Cadastrar: Após preencher todos os campos, clique no botão "CADASTRAR" para enviar seus dados.
 
-#### Organize suas finanças
+### Organize suas finanças
 
-__RENDIMENTOS MENSAIS__
+__Rendimentos Mensais__
 
 1. Acesse o menu __Finanças__
 
@@ -54,7 +54,7 @@ __RENDIMENTOS MENSAIS__
 
 5.	Clique em "-" para excluir uma conta. Você pode excluir várias contas de rendimento, se necessário.
 
-__DESPESAS MENSAIS__
+__Despesas Mensais__
 
 1. Acesse o menu __Finanças__
 
@@ -103,10 +103,10 @@ A seção "RENDA TOTAL" calculará automaticamente sua renda total. Ela é calcu
    Digitar npm index.js;
 
 
-### Suporte
+### SUPORTE
 
 Se você tiver dúvidas ou precisar de suporte adicional, entre em contato com nossa equipe de suporte.
 
-### Conclusão
+### CONCLUSÃO
 
 Esperamos que esta documentação tenha fornecido informações úteis sobre o Aplicativo Educainvest. Este é um guia inicial para ajudar os usuários a aproveitar ao máximo nosso aplicativo. Se você tiver alguma dúvida adicional ou precisar de assistência, não hesite em entrar em contato com nossa equipe de suporte. Obrigado por escolher o Aplicativo Educainvest para suas necessidades financeiras.
