@@ -1,8 +1,6 @@
 # __Educainvest__
 #### Organize as suas finanças enquanto aprende.
 ---
-<br>
-<br>
 
 ## Documentação do Aplicativo de Educainvest
 
@@ -44,7 +42,7 @@ O Aplicativo Educainvest oferece funcionalidades essenciais para o gerenciamento
 
 #### Organize suas finanças
 
-__Rendimentos Mensais__
+__RENDIMENTOS MENSAIS__
 
 1. Acesse o menu __Finanças__
 
@@ -56,7 +54,7 @@ __Rendimentos Mensais__
 
 5.	Clique em "-" para excluir uma conta. Você pode excluir várias contas de rendimento, se necessário.
 
-__Despesas Mensais__
+__DESPESAS MENSAIS__
 
 1. Acesse o menu __Finanças__
 
@@ -72,7 +70,7 @@ __Despesas Mensais__
 
 A seção "TOTAL" mostrará a soma de todas as despesas registradas.
 
-__RENDA TOTAL:__
+__Renda Total:__
 
 A seção "RENDA TOTAL" calculará automaticamente sua renda total. Ela é calculada subtraindo a soma das despesas da soma dos rendimentos. Você verá o valor líquido aqui.
 
